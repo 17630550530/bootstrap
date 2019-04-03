@@ -15,11 +15,11 @@ import {
   makeArray,
   reflow,
   typeCheckConfig
-} from './util/index'
-import Data from './dom/data'
-import EventHandler from './dom/eventHandler'
-import Manipulator from './dom/manipulator'
-import SelectorEngine from './dom/selectorEngine'
+} from '../util/index'
+import Data from '../dom/data'
+import EventHandler from '../dom/eventHandler'
+import Manipulator from '../dom/manipulator'
+import SelectorEngine from '../dom/selectorEngine'
 
 /**
  * ------------------------------------------------------------------------
